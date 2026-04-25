@@ -9,4 +9,4 @@ if(file_exists(dirname( __FILE__ ) ."/source/module/" . $mod . '.php'))
 	echo "模块不存在";
 }
 
-sice
+sice{colum}
